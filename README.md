@@ -1,52 +1,43 @@
-<h1 align="center">
-  Hi, I'm Sarah 👋
-</h1>
+# Hi, I'm Sarah 👋
 
-<p align="center">
-  Engineering intelligent systems that solve real-world problems.
-</p>
+**Engineering intelligent systems for real-world impact.**
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Mechatronics Engineering @ McMaster University  
-- 🤖 Working on **AI agents & agentic AI systems for business solutions**  
+- 🤖 Building **AI agents & agentic AI systems for business solutions**  
 - 🧠 Interested in **applied AI, automation, and intelligent systems**  
 - 🛠️ I like building things that are **useful, practical, and actually get used**  
 - 🌱 Currently focused on **AI-driven products, agents, and workflows**
 
 ---
 
-## 🧩 What I'm Working On
+## 🧭 What I Care About
 
-- 🔹 Agentic AI systems for real business use cases  
-- 🔹 Automation tools & intelligent workflows  
-- 🔹 AI-assisted decision systems  
-- 🔹 Scalable software + ML systems
+- Turning messy real-world problems into **clean, working systems**
+- Building **AI that actually ships**, not demos
+- Designing **simple systems that scale**
+- Using engineering to create **leverage and impact**
+
+---
+
+## 🧩 What I'm Building
+
+- Agentic AI systems for real business workflows  
+- Automation tools & decision systems  
+- AI-assisted products and internal tools  
+- Scalable software + ML-powered systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,js,ts,react,nodejs,git,linux,postgres,docker" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=python,cpp,matlab,js,ts,react,nodejs,git,linux,postgres,docker)
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarah-alabdulrazzak/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-alabdulrazzak/)
